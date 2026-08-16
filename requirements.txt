@@ -1,0 +1,9 @@
+﻿# NABIQ v15rx Clean Final — runtime requirements
+# Python 3.10+ recommended.
+# No external APIs or LLM calls are required at inference time.
+
+scikit-learn
+numpy
+scipy
+pandas
+joblib
