@@ -73,7 +73,7 @@ Off-repository artifacts:
 |---|---|---|---|
 | `README.md` | replaced | fix 4 scientific contradictions, 1 broken command, add provenance + structure | `786b1568` |
 | `NABIQ_ArabicNLP2026_paper.pdf` | added at repo root | QR promises the paper | `b4239622` |
-| `ARABICNLP2026_REPOSITORY_RELEASE_AUDIT.md` | added at repo root | this audit trail | see §H |
+| `ARABICNLP2026_REPOSITORY_RELEASE_AUDIT.md` | added at repo root | this audit trail | `8269adcd` |
 
 Two further changes were made through the GitHub web interface rather than as
 commits, and so carry no SHA:
@@ -214,9 +214,15 @@ the official submission.
 |---|---|---|
 | `786b15689b51489f017f629e08cd7d8fc5491a46` | Align README with the accepted camera-ready | 2026-10-16 14:05:14 |
 | `b42396226d2d00319c38020c414b70f8464c6e5c` | Add the accepted ArabicNLP 2026 camera-ready paper | 2026-10-16 14:17:30 |
+| `8269adcd453567110a9151387976c905432ed5d6` | Add the repository release audit — **this file** | 2026-10-16 14:22 |
 
-Branch `main` advanced `6c047a3` → `786b1568` → `b4239622`. Linear history, no
-force-push, no history rewrite, no deletion, no file moved or renamed.
+Branch `main` advanced `6c047a3` → `786b1568` → `b4239622` → `8269adcd`. Linear
+history, no force-push, no history rewrite, no deletion, no file moved or
+renamed.
+
+This report cannot state its own content hash, so one further commit after
+`8269adcd` replaces this file with the present revision — the only change in it
+is the two self-references in this section and in §B.
 
 ### Release
 
