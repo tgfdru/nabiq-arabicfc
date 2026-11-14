@@ -4,8 +4,10 @@ Code for the system description paper **_Wajeh at AISA-ArabicFC: A Non-LLM
 Classical ML and Retrieval Pipeline for Arabic Function Calling_**
 (ArabicNLP 2026, co-located with EMNLP 2026).
 
-**Paper:** [`NABIQ_ArabicNLP2026_paper.pdf`](./NABIQ_ArabicNLP2026_paper.pdf)
-· OpenReview submission `aWzX1T0ZAG`
+**Paper:** [ACL Anthology](https://aclanthology.org/2026.arabicnlp-sharedtasks.201/)
+· [PDF](./NABIQ_ArabicNLP2026_paper.pdf)
+· DOI [10.18653/2026.arabicnlp-sharedtasks.201](https://doi.org/10.18653/2026.arabicnlp-sharedtasks.201)
+· pp. 1564–1573
 
 NABIQ is a **non-neural** Arabic function-calling system. No large language
 model, no pretrained encoder, no inference API, no PyTorch, no GPU. Its only
@@ -241,8 +243,12 @@ If you use this code, please cite the paper and the shared task:
   author    = {Aldosari, Abdullah and Alshahri, Nader},
   booktitle = {Proceedings of The Fourth Arabic Natural Language Processing Conference: Shared Tasks},
   year      = {2026},
+  month     = oct,
   address   = {Budapest, Hungary},
-  publisher = {Association for Computational Linguistics}
+  publisher = {Association for Computational Linguistics},
+  pages     = {1564--1573},
+  url       = {https://aclanthology.org/2026.arabicnlp-sharedtasks.201/},
+  doi       = {10.18653/2026.arabicnlp-sharedtasks.201}
 }
 ```
 
